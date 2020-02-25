@@ -1,6 +1,14 @@
 $font-stack: Helvetica, sans-serif;
-$primary-color: #333;
+
+$background-color: #000000;
+$foreground-color: #292D32;
+$accent1-color: #E8E0CD;
+$accent2-color: #FFC114;
+$accent3-color: #4C4944;
+$primary-color: $foreground-color;  
+
 body {
   font: 100% $font-stack;
   color: $primary-color;
+  background-color: $background-color;
 }

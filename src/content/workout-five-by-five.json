@@ -1,0 +1,81 @@
+{
+    "Sessions": [
+        {
+        "title": "Day 1",
+    "Workout": {
+        "Drills": [
+            {
+                "name": "Back Squat",
+                "sets": "5",
+                "reps": "5"
+            },
+            {
+                "name": "Bench Press",
+                "sets": "5",
+                "reps": "5"
+            },
+            {
+                "name": "Bent Over Row",
+                "sets": "5",
+                "reps": "5"
+            },
+            {
+                "name": "Pull Ups",
+                "sets": "2",
+                "reps": "8"
+            },
+            {
+                "name": "DB Side Raise",
+                "sets": "3",
+                "reps": "8"
+            },
+            {
+                "name": "Sit ups",
+                "sets": "4",
+                "reps": "15"
+            }
+        ]
+
+    }
+        },
+        {
+            "title": "Day 3",
+        "Workout": {
+            "Drills": [
+                {
+                    "name": "Front Squat",
+                    "sets": "5",
+                    "reps": "5"
+                },
+                {
+                    "name": "Strict Press",
+                    "sets": "5",
+                    "reps": "5"
+                },
+                {
+                    "name": "Deadlift",
+                    "sets": "5",
+                    "reps": "5"
+                },
+                {
+                    "name": "Barbell Curl",
+                    "sets": "2",
+                    "reps": "8"
+                },
+                {
+                    "name": "Seated triceps press",
+                    "sets": "2",
+                    "reps": "8"
+                },
+                {
+                    "name": "DB Hammer Front Raise",
+                    "sets": "3",
+                    "reps": "8"
+                }
+            ]
+    
+        }
+            }
+    ]
+    
+}

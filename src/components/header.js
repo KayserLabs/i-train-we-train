@@ -2,7 +2,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 import styles from './header.module.scss'
-
+import logo from '../images/image.svg'
 
 const Header = ({ siteTitle }) => (
   <header  className={styles.headerColor}>
@@ -13,6 +13,7 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
+      <img src={logo}></img>
       <h1 style={{ margin: 0 }}>
         <Link
           to="/"
